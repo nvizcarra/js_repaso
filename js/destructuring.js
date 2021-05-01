@@ -20,5 +20,5 @@ let {version, frameworks} = aprendiendoJS;
 console.log(version);
 console.log(frameworks);
 
-let let {version} = aprendiendoJS.version;
+let {version} = aprendiendoJS.version;
 console.log(version);
